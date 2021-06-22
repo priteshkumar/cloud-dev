@@ -8,6 +8,8 @@
 
 `curl <url>`
 
+`curl "https://api.openweathermap.org/data/2.5/weather?q=bengaluru&appid=acd1c9c0df79d1e3b55201c4f347605a&units=metric"`
+
 * GET url with headers
 
 `curl -i <url>`
