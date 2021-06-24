@@ -23,3 +23,8 @@
 * Host to Host Layer : end to end delivery using tcp/udp
 * Internet layer : packetisation/send-receive packets over entire network
 * Network access/link layer: combines data link layer/physical layer for communication between **2 devices on same network**
+
+
+### macos network cmds
+
+* networksetup -listallhardwareports - look for en0 in wireless or en1 in wired connection
