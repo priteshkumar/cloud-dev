@@ -11,3 +11,4 @@
 * Concurrency
 * Abstraction
 
+https://www.confluent.io/learn/distributed-systems/
