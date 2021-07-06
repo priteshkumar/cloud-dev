@@ -12,3 +12,22 @@
 * Abstraction
 
 https://www.confluent.io/learn/distributed-systems/
+
+### Distributed systems architectures
+
+* Master-slave : MongoDb/MySQL
+* Master-master : Cassandra
+
+### Challenges in implementation
+
+* Performance
+* Scalability
+* Reliability/Fault tolerance
+* Security
+
+### Distributed systems solution
+
+* Amazon s3 - storage
+* Spark - computation
+* Kafka - messaging
+* MongoDB - noSQL dbms
