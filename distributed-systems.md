@@ -25,6 +25,11 @@ https://www.confluent.io/learn/distributed-systems/
 * Reliability/Fault tolerance
 * Security
 
+### Cap theorem
+
+https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
+
+
 ### Distributed systems solution
 
 * Amazon s3 - storage
