@@ -8,12 +8,17 @@
  
 
 ### OSI layers
+
+Below layers are used for end to end communication across networks
 * application
 * presentation
 * session
 * transport
-* network
-* data link
+
+Below layers are used for peer to peer communication between 2 nodes across a single hop
+
+* network -> packets transmission/routing/internetworking/congestion control
+* data link -> framing of packets/error, flow control between 2 nodes/channel access control /ARP
 * physical
 
 
